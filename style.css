@@ -1,10 +1,10 @@
-p {
+#titulo{
     color: brown;
     text-align: center;
     font-size: 20px;
 }
 
-h1 {
+.texto {
     color: blue;
 text-align: center;
 font-size: 30px;
